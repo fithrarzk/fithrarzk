@@ -1,15 +1,14 @@
 # Hi, I'm Muhammad Fithra Rizki 👋
 
-I'm a 2nd-year **Informatics Engineering** student at **Institut Teknologi Bandung (ITB)**. 
-I am passionate about software development, algorithms, and building efficient solutions.
+I'm a 3rd-year **Informatics Engineering** student at **Institut Teknologi Bandung (ITB)**. 
+I am passionate about software development, web development, algorithms, and building efficient solutions.
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently exploring the core of Computer Science at ITB.
-- 💻 Experienced in **C, Python, Java,** and **TypeScript**.
-- 🛠️ Interested in Backend Development and Software Architecture.
-- 📫 Reach me on LinkedIn: [linkedin.com/in/fithrarizki](https://linkedin.com/in/fithrarizki)
+- Currently exploring the core of Computer Science at ITB.
+- Interested in Full Stack Development and Software Architecture.
+- Reach me on LinkedIn: [linkedin.com/in/fithrarizki](https://linkedin.com/in/fithrarizki)
 
 ### 🛠 Tech Stack
 #### 🖥 Languages

@@ -45,10 +45,10 @@ I am passionate about software development, web development, algorithms, and bui
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesa005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahesa005&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fithrarzk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fithrarzk&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesa005&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=fithrarzk&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>

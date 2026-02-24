@@ -45,6 +45,6 @@ I am passionate about software development, web development, algorithms, and bui
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fithrarzk&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fithrarzk&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fithrarzk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fithrarzk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>

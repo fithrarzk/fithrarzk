@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Fithra Rizki 👋
 
-I'm a 3rd-year **Informatics Engineering** student at **Institut Teknologi Bandung (ITB)**. 
+I'm a 4th-year **Informatics Engineering** student at **Institut Teknologi Bandung (ITB)**. 
 I am passionate about software development, web development, algorithms, and building efficient solutions.
 
 ---
